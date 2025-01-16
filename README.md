@@ -19,7 +19,7 @@ This project is complemented by a **thorough report**, which provides in-depth i
 ## Objectives
 
 1. **Familiarization with Distributed Systems**  
-   Students gain hands-on experience in managing and utilizing distributed systems such as Apache Spark and Hadoop.
+   Hands-on experience in managing and utilizing distributed systems such as Apache Spark and Hadoop.
    
 2. **Application of Data Science Techniques**  
    Leveraging Spark's APIs to process, analyze, and derive insights from large datasets.
