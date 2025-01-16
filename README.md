@@ -1,4 +1,4 @@
-# Advanced Topics in Database Systeems – Term Project (ECE NTUA, 9th Semester)
+# Advanced Topics in Database Systems – Term Project (ECE NTUA, 9th Semester)
 
 This repository contains the term project for the **Advanced Topics in Database Systems** course, completed as part of the **9th semester (2024-2025)** curriculum at the **School of Electrical and Computer Engineering (ECE), National Technical University of Athens (NTUA)**. 
 
@@ -11,6 +11,8 @@ This repository contains the term project for the **Advanced Topics in Database 
 The project focuses on the analysis of large datasets using distributed computing frameworks, namely **Apache Spark** and **Apache Hadoop**. The aim is to develop data processing pipelines, perform data analysis tasks, and evaluate the performance of different configurations and techniques in a cloud-based environment.
 
 The datasets span topics like crime statistics, population demographics, income distribution, and police station locations in Los Angeles, enabling practical exploration of database and big data concepts.
+
+This project is complemented by a **thorough report**, which provides in-depth insights into the methodology, results, and observations made throughout the process.
 
 ---
 
@@ -62,4 +64,6 @@ The project implements and answers five advanced analytical queries:
   - Implementation of analysis using Spark (DataFrame and/or SQL APIs).
   - Performance results and visualizations.
 - `results/`: Outputs of the analyses, saved in CSV format.
+- `report/`: The comprehensive report detailing the methodology, experiments, and observations for the project.
 
+---
